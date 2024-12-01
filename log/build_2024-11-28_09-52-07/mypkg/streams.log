@@ -1,0 +1,33 @@
+[0.788s] Invoking command in '/home/eleclabs/robot_ws/src/mypkg': PYTHONPATH=/home/eleclabs/robot_ws/build/mypkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/robot_ws/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/eleclabs/robot_ws/build/mypkg/build install --record /home/eleclabs/robot_ws/build/mypkg/install.log --single-version-externally-managed install_data
+[0.991s] running egg_info
+[0.991s] creating ../../build/mypkg/mypkg.egg-info
+[0.992s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.992s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.992s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.992s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.992s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.993s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.994s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.994s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.995s] running build
+[0.995s] running build_py
+[0.995s] creating /home/eleclabs/robot_ws/build/mypkg/build
+[0.996s] creating /home/eleclabs/robot_ws/build/mypkg/build/lib
+[0.996s] creating /home/eleclabs/robot_ws/build/mypkg/build/lib/mypkg
+[0.996s] copying mypkg/__init__.py -> /home/eleclabs/robot_ws/build/mypkg/build/lib/mypkg
+[0.996s] running install
+[0.996s] running install_lib
+[0.997s] creating /home/eleclabs/robot_ws/install/mypkg/lib/python3.10/site-packages/mypkg
+[0.997s] copying /home/eleclabs/robot_ws/build/mypkg/build/lib/mypkg/__init__.py -> /home/eleclabs/robot_ws/install/mypkg/lib/python3.10/site-packages/mypkg
+[0.997s] byte-compiling /home/eleclabs/robot_ws/install/mypkg/lib/python3.10/site-packages/mypkg/__init__.py to __init__.cpython-310.pyc
+[0.998s] running install_data
+[0.998s] creating /home/eleclabs/robot_ws/install/mypkg/share/ament_index
+[0.998s] creating /home/eleclabs/robot_ws/install/mypkg/share/ament_index/resource_index
+[0.999s] creating /home/eleclabs/robot_ws/install/mypkg/share/ament_index/resource_index/packages
+[0.999s] copying resource/mypkg -> /home/eleclabs/robot_ws/install/mypkg/share/ament_index/resource_index/packages
+[0.999s] copying package.xml -> /home/eleclabs/robot_ws/install/mypkg/share/mypkg
+[0.999s] running install_egg_info
+[1.000s] Copying ../../build/mypkg/mypkg.egg-info to /home/eleclabs/robot_ws/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info
+[1.001s] running install_scripts
+[1.015s] writing list of installed files to '/home/eleclabs/robot_ws/build/mypkg/install.log'
+[1.034s] Invoked command in '/home/eleclabs/robot_ws/src/mypkg' returned '0': PYTHONPATH=/home/eleclabs/robot_ws/build/mypkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/robot_ws/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/eleclabs/robot_ws/build/mypkg/build install --record /home/eleclabs/robot_ws/build/mypkg/install.log --single-version-externally-managed install_data
